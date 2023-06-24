@@ -1,0 +1,2 @@
+global.gameOver = false;
+
